@@ -7,7 +7,7 @@ using Verse;
 using RimWorld;
 using AchievementsExpanded;
 
-namespace VanillaApparelExpanded.AchievementsExpanded
+namespace AchievementsExpanded
 {
     public class ItemTrackerMultipleVanillaApparel : ItemTracker
     {

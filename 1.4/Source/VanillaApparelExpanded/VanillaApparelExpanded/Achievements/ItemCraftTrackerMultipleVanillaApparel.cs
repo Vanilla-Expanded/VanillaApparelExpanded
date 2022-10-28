@@ -6,7 +6,7 @@ using RimWorld;
 using System.Collections.Generic;
 using AchievementsExpanded;
 
-namespace VanillaApparelExpanded.AchievementsExpanded
+namespace AchievementsExpanded
 {
     public class ItemCraftTrackerMultipleVanillaApparel : Tracker<Thing>
     {

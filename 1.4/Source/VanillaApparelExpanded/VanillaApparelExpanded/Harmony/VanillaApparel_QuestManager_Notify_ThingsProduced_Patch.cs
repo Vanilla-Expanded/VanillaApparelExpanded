@@ -8,7 +8,7 @@ using RimWorld;
 using RimWorld.Planet;
 using AchievementsExpanded;
 
-namespace VanillaApparelExpanded.AchievementsExpanded
+namespace AchievementsExpanded
 {
     public class VanillaApparel_QuestManager_Notify_ThingsProduced_Patch
     {
