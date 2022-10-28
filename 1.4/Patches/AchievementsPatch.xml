@@ -23,7 +23,7 @@
 							<label>Boot camp</label>
 							<description>Get two boots and two shoes</description>
 							
-							<tracker Class="AchievementsExpanded.ItemTrackerMultipleVanillaApparel">
+							<tracker Class="VanillaApparelExpanded.AchievementsExpanded.ItemTrackerMultipleVanillaApparel">
 								<thingList>
 								
 									<li>
@@ -48,7 +48,7 @@
 							<label>Boot camp, two</label>
 							<description>Craft two boots and two shoes</description>
 							
-							<tracker Class="AchievementsExpanded.ItemCraftTrackerMultipleVanillaApparel">
+							<tracker Class="VanillaApparelExpanded.AchievementsExpanded.ItemCraftTrackerMultipleVanillaApparel">
 								<thingList>
 								
 									<li>

@@ -6,8 +6,9 @@ using HarmonyLib;
 using Verse;
 using RimWorld;
 using RimWorld.Planet;
+using AchievementsExpanded;
 
-namespace AchievementsExpanded
+namespace VanillaApparelExpanded.AchievementsExpanded
 {
     public class VanillaApparel_QuestManager_Notify_ThingsProduced_Patch
     {

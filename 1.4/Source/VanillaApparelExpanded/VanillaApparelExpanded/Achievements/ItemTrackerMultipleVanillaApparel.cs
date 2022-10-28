@@ -5,8 +5,9 @@ using System.Linq;
 using HarmonyLib;
 using Verse;
 using RimWorld;
+using AchievementsExpanded;
 
-namespace AchievementsExpanded
+namespace VanillaApparelExpanded.AchievementsExpanded
 {
     public class ItemTrackerMultipleVanillaApparel : ItemTracker
     {
@@ -22,7 +23,8 @@ namespace AchievementsExpanded
             playerHasIt = reference.playerHasIt;
             foreach (KeyValuePair<ThingDef, int> set in thingList)
             {
-                playerHasIt.Add(set.Key,false);
+                playerHasIt[set.Key]=false;
+                
             }
         }
 

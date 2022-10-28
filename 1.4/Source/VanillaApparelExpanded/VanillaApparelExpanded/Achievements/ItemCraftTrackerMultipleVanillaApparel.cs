@@ -4,8 +4,9 @@ using HarmonyLib;
 using Verse;
 using RimWorld;
 using System.Collections.Generic;
+using AchievementsExpanded;
 
-namespace AchievementsExpanded
+namespace VanillaApparelExpanded.AchievementsExpanded
 {
     public class ItemCraftTrackerMultipleVanillaApparel : Tracker<Thing>
     {
@@ -30,7 +31,7 @@ namespace AchievementsExpanded
             playerCraftedIt = reference.playerCraftedIt;
             foreach (KeyValuePair<ThingDef, int> set in thingList)
             {
-                playerCraftedIt.Add(set.Key, 0);
+                playerCraftedIt[set.Key]= 0;
             }
 
         }
