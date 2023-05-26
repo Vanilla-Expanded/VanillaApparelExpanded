@@ -326,7 +326,8 @@
 				<li>Eyes</li>
 			</bodyPartGroups>
 			<wornGraphicPath>Things/Headgear/Sunglasses/Sunglasses</wornGraphicPath>
-			<hatRenderedFrontOfFace>true</hatRenderedFrontOfFace>
+			<hatRenderedFrontOfFace>false</hatRenderedFrontOfFace>
+			<forceRenderUnderHair>true</forceRenderUnderHair>
 			<layers>
 				<li>EyeCover</li>
 			</layers>
@@ -386,7 +387,8 @@
 				<li>Eyes</li>
 			</bodyPartGroups>
 			<wornGraphicPath>Things/Headgear/Glasses/Glasses</wornGraphicPath>
-			<hatRenderedFrontOfFace>true</hatRenderedFrontOfFace>
+			<hatRenderedFrontOfFace>false</hatRenderedFrontOfFace>
+			<forceRenderUnderHair>true</forceRenderUnderHair>
 			<layers>
 				<li>EyeCover</li>
 			</layers>
