@@ -4,7 +4,7 @@
 	<ResearchProjectDef>
 		<defName>VAE_CasualWear</defName>
 		<label>casual wear</label>
-		<description>Craft casual wear with handy features for any life situation.</description> <!-- adjust text -->
+		<description>Craft casual wear with handy features for any life situation.</description>
 		<baseCost>600</baseCost>
 		<tab>VanillaExpanded</tab>
 		<techLevel>Industrial</techLevel>
@@ -13,6 +13,15 @@
 		</prerequisites>
   <researchViewX>3.00</researchViewX>
   <researchViewY>1.35</researchViewY>
+<generalRules>
+  <rulesStrings>
+    <li>subject->everyday comfort</li>
+    <li>subject_story->revolutionized daily attire with pockets for every gadget</li>
+    <li>subject_story->created clothes that adapt to both social gatherings and solitude</li>
+    <li>subject_story->crafted the ultimate leisure outfit, blending fashion with utility</li>
+    <li>subject_gerund->designing versatile casual wear</li>
+  </rulesStrings>
+</generalRules>
 	</ResearchProjectDef>
 	
 	<ResearchProjectDef>
@@ -27,6 +36,15 @@
 		</prerequisites>
   <researchViewX>4.00</researchViewX>
   <researchViewY>1.35</researchViewY>
+  <generalRules>
+  <rulesStrings>
+    <li>subject->elegant dressing</li>
+    <li>subject_story->designed the most sought-after gala attire</li>
+    <li>subject_story->brought back vintage styles with a modern twist</li>
+    <li>subject_story->tailored suits that became the standard in high diplomacy</li>
+    <li>subject_gerund->crafting exquisite formal wear</li>
+  </rulesStrings>
+</generalRules>
 	</ResearchProjectDef>
 
 	<ResearchProjectDef>
@@ -41,6 +59,15 @@
 		</prerequisites>
   <researchViewX>3.00</researchViewX>
   <researchViewY>2.55</researchViewY>
+  <generalRules>
+  <rulesStrings>
+    <li>subject->functional fashion</li>
+    <li>subject_story->introduced durable fabrics that withstand any job</li>
+    <li>subject_story->innovated with multi-tool belts integrated into work pants</li>
+    <li>subject_story->set the new norm with climate-adaptive work clothes</li>
+    <li>subject_gerund->sewing specialized work attire</li>
+  </rulesStrings>
+</generalRules>
 	</ResearchProjectDef>
 
 	<ResearchProjectDef>
@@ -55,6 +82,15 @@
 		</prerequisites>
   <researchViewX>4.00</researchViewX>
   <researchViewY>1.95</researchViewY>
+  <generalRules>
+  <rulesStrings>
+    <li>subject->hygienic wear</li>
+    <li>subject_story->developed a fabric that repels 99.9% of microbes</li>
+    <li>subject_story->pioneered the self-cleaning lab coat</li>
+    <li>subject_story->introduced color-coded uniforms for different lab sectors</li>
+    <li>subject_gerund->producing sterile clothing</li>
+  </rulesStrings>
+</generalRules>
 	</ResearchProjectDef>
 
 	<ResearchProjectDef>
@@ -70,6 +106,15 @@
 		</prerequisites>
   <researchViewX>3.00</researchViewX>
   <researchViewY>1.95</researchViewY>
+  <generalRules>
+  <rulesStrings>
+    <li>subject->tactical gear</li>
+    <li>subject_story->designed camouflage that blends into multiple terrains</li>
+    <li>subject_story->created armor inserts that are both lightweight and bulletproof</li>
+    <li>subject_story->equipped units with climate-controlled battle dress</li>
+    <li>subject_gerund->assembling advanced military outfits</li>
+  </rulesStrings>
+</generalRules>
 	</ResearchProjectDef>
 
 </Defs>
