@@ -209,6 +209,7 @@
 			<countsAsClothingForNudity>false</countsAsClothingForNudity>
 			<bodyPartGroups>
 				<li>Mouth</li>
+				<li>UpperHead</li>
 			</bodyPartGroups>
 			<wornGraphicPath>Things/Headgear/SurgicalMask/SurgicalMask</wornGraphicPath>
 			<layers>
