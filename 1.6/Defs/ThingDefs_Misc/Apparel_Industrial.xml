@@ -4,8 +4,8 @@
 	<!-- +++++ Casual T-Shirt +++++ -->
 	<ThingDef ParentName="ApparelMakeableBase">
 		<defName>VAE_Apparel_CasualTShirt</defName>
-		<label>Casual T-Shirt</label>
-		<description>A casual T-Shirt with a cool sticker on it.</description>
+		<label>casual T-shirt</label>
+		<description>A casual T-shirt with a cool sticker on it.</description>
 		<graphicData>
 			<texPath>Things/Apparel/CasualTShirt/CasualTShirt</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -229,7 +229,7 @@
 	<!-- +++++ Shirt and Tie +++++ -->
 	<ThingDef ParentName="ApparelMakeableBase">
 		<defName>VAE_Apparel_ShirtandTie</defName>
-		<label>Shirt and Tie</label>
+		<label>shirt and tie</label>
 		<description>A nice looking collared shirt with buttons and a tie.</description>
 		<graphicData>
 			<texPath>Things/Apparel/ShirtandTie/ShirtandTie</texPath>
@@ -294,7 +294,7 @@
 	<!-- +++++ Suit Jacket +++++ -->
 	<ThingDef ParentName="ApparelMakeableBase">
 		<defName>VAE_Apparel_SuitJacket</defName>
-		<label>Suit jacket</label>
+		<label>suit jacket</label>
 		<description>A nice looking suit jacket.</description>
 		<graphicData>
 			<texPath>Things/Apparel/SuitJacket/SuitJacket</texPath>
@@ -540,7 +540,7 @@
 	<!-- +++++ Fleece Shirt +++++ -->
 	<ThingDef ParentName="ApparelMakeableBase">
 		<defName>VAE_Apparel_FleeceShirt</defName>
-		<label>Fleece Shirt</label>
+		<label>fleece shirt</label>
 		<description>A soft, checkered, breathable shirt perfect for working in the field.</description>
 		<graphicData>
 			<texPath>Things/Apparel/ShirtFleece/ShirtFleece</texPath>
@@ -654,7 +654,7 @@
 	<!-- +++++ Chefs Uniform +++++ -->
 	<ThingDef ParentName="ApparelMakeableBase">
 		<defName>VAE_Apparel_ChefsUniform</defName>
-		<label>Chef's Uniform</label>
+		<label>chef's uniform</label>
 		<description>A thick cloth coat protects from the heat of stoves and splattering of boiling liquids.</description>
 		<graphicData>
 			<texPath>Things/Apparel/ChefsUniform/ChefsUniform</texPath>
@@ -714,7 +714,7 @@
 	<!-- +++++ Military Jacket +++++ -->
 	<ThingDef ParentName="ApparelMakeableBase">
 		<defName>VAE_Apparel_MilitaryJacket</defName>
-		<label>Military Jacket</label>
+		<label>military jacket</label>
 		<description>A thick fabric military formal jacket used for certain ceremonies, receptions and celebrations. It contains orders, medals insignia and campaign ribbons. It is considered a symbol of courage and valor.</description>
 		<graphicData>
 			<texPath>Things/Apparel/MilitaryJacket/MilitaryJacket</texPath>
@@ -782,7 +782,7 @@
 	<!-- +++++ Military Uniform +++++ -->
 	<ThingDef ParentName="ApparelMakeableBase">
 		<defName>VAE_Apparel_MilitaryUniform</defName>
-		<label>Military Uniform</label>
+		<label>military uniform</label>
 		<description>A thick, protective coverall with a military camouflage.</description>
 		<graphicData>
 			<texPath>Things/Apparel/MilitaryUniform/MilitaryUniform</texPath>
@@ -847,7 +847,7 @@
 	<!-- +++++ Builders Jacket +++++ -->
 	<ThingDef ParentName="ApparelMakeableBase">
 		<defName>VAE_Apparel_BuildersJacket</defName>
-		<label>Builder's Jacket</label>
+		<label>builder's jacket</label>
 		<description>A jacket with highly reflective properties and a colour that is easily discernible from any background.\n\nMost industrial employees wear it as part of their personal protective equipment.</description>
 		<graphicData>
 			<texPath>Things/Apparel/BuildersJacket/BuildersJacket</texPath>
@@ -908,7 +908,7 @@
 	<!-- +++++ Doctor Scrubs +++++ -->
 	<ThingDef ParentName="ApparelMakeableBase">
 		<defName>VAE_Apparel_DoctorScrubs</defName>
-		<label>Doctor Scrubs</label>
+		<label>doctor scrubs</label>
 		<description>Sanitary clothing worn by surgeons, nurses and other workers involved in patient care. They are designed to be simple, easy to launder and cheap to replace if damaged or stained.</description>
 		<graphicData>
 			<texPath>Things/Apparel/Scrubs/Scrubs</texPath>
@@ -971,7 +971,7 @@
 	<!-- +++++ Lab Coat +++++ -->
 	<ThingDef ParentName="ApparelMakeableBase">
 		<defName>VAE_Apparel_LabCoat</defName>
-		<label>Lab Coat</label>
+		<label>lab coat</label>
 		<description>A light coat worn to protect clothing from substances used in a lab.</description>
 		<graphicData>
 			<texPath>Things/Apparel/LabCoat/LabCoat</texPath>
@@ -1032,7 +1032,7 @@
 	<!-- +++++ Tank Top +++++ -->
 	<ThingDef ParentName="ApparelMakeableBase">
 		<defName>VAE_Apparel_TankTop</defName>
-		<label>Tank Top</label>
+		<label>tank top</label>
 		<description>A sleeveless type of T-shirt, useful during prolonged exercise.</description>
 		<graphicData>
 			<texPath>Things/Apparel/TankTop/TankTop</texPath>
@@ -1088,7 +1088,7 @@
 	<!-- +++++ Sheriff Shirt +++++ -->
 	<ThingDef ParentName="ApparelMakeableBase">
 		<defName>VAE_Apparel_SheriffShirt</defName>
-		<label>Sheriff Shirt</label>
+		<label>sheriff shirt</label>
 		<description>A formal, thick buttoned-down shirt with a sheriff star on the chest. Provides wearer with a sense of pride and accomplishment.</description>
 		<graphicData>
 			<texPath>Things/Apparel/SheriffShirt/SheriffShirt</texPath>
@@ -1154,7 +1154,7 @@
 	<!-- +++++ Jumpsuit +++++ -->
 	<ThingDef ParentName="ApparelMakeableBase">
 		<defName>VAE_Apparel_Jumpsuit</defName>
-		<label>Jumpsuit</label>
+		<label>jumpsuit</label>
 		<description>A full body jumpsuit made out of thick fabric or leather. Excellent for general body protection and manual labour.</description>
 		<graphicData>
 			<texPath>Things/Apparel/Jumpsuit/Jumpsuit</texPath>

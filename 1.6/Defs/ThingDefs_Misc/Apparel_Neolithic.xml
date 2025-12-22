@@ -4,7 +4,7 @@
     <!-- +++++ Pelt Coat +++++ -->
     <ThingDef ParentName="ApparelMakeableBase">
 		<defName>VAE_Apparel_PeltCoat</defName>
-		<label>Pelt Coat</label>
+		<label>pelt coat</label>
 		<description>A heavy coat insulated due to animal pelt, providing warmth and armor.</description>
 		<graphicData>
 			<texPath>Things/Apparel/PeltCoat/PeltCoat</texPath>
@@ -62,7 +62,7 @@
     <!-- +++++ Tribal Poncho +++++ -->
     <ThingDef ParentName="ApparelMakeableBase">
 		<defName>VAE_Apparel_TribalPoncho</defName>
-		<label>Tribal Poncho</label>
+		<label>tribal poncho</label>
 		<description>A poncho crafted using neolithic tools. While it may look primitive, it is effective at insulating the wearer.</description>
 		<graphicData>
 			<texPath>Things/Apparel/TribalPoncho/TribalPoncho</texPath>
@@ -129,7 +129,7 @@
     <!-- +++++ Tribal Kilt +++++ -->
     <ThingDef ParentName="ApparelMakeableBase">
 		<defName>VAE_Apparel_TribalKilt</defName>
-		<label>Tribal Kilt</label>
+		<label>tribal kilt</label>
 		<description>A kilt crafted using neolithic tools. While it may look primitive, it is effective at insulating the wearer.</description>
 		<graphicData>
 			<texPath>Things/Apparel/TribalKilt/TribalKilt</texPath>

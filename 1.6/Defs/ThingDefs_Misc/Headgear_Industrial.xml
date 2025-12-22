@@ -117,7 +117,7 @@
 	<!-- +++++ Hardhat +++++ -->
 	<ThingDef ParentName="HatMakeableBase">
 		<defName>VAE_Headgear_Hardhat</defName>
-		<label>Hardhat</label>
+		<label>hardhat</label>
 		<description>A type of helmet predominantly used in a work environment. Provides high protection against blunt trauma.</description>
 		<graphicData>
 			<texPath>Things/Headgear/HardHat/HardHat</texPath>
@@ -174,7 +174,7 @@
 	<!-- +++++ Surgical Mask +++++ -->
 	<ThingDef ParentName="HatMakeableBase">
 		<defName>VAE_Headgear_SurgicalMask</defName>
-		<label>Surgical Mask</label>
+		<label>surgical mask</label>
 		<description>Sanitary mask worn by the surgeons, nurses and other workers involved in patient care.</description>
 		<graphicData>
 			<texPath>Things/Headgear/SurgicalMask/SurgicalMask</texPath>
@@ -233,7 +233,7 @@
 	<!-- +++++ Baseball Cap +++++ -->
 	<ThingDef ParentName="HatMakeableBase">
 		<defName>VAE_Headgear_BaseballCap</defName>
-		<label>Baseball Cap</label>
+		<label>baseball cap</label>
 		<description>A type of soft cap with a rounded crown and a stiff peak protecting the front.</description>
 		<graphicData>
 			<texPath>Things/Headgear/BaseballCap/BaseballCap</texPath>
@@ -291,7 +291,7 @@
 	<!-- +++++ Sunglasses +++++ -->
 	<ThingDef ParentName="HatMakeableBase">
 		<defName>VAE_Headgear_Sunglasses</defName>
-		<label>Sunglasses</label>
+		<label>sunglasses</label>
 		<description>A pair of sunglasses protecting the wearer from dangerous UV rays. Often considered to be ‘cool’.</description>
 		<graphicData>
 			<texPath>Things/Headgear/Sunglasses/Sunglasses</texPath>
@@ -352,7 +352,7 @@
 	<!-- +++++ Glasses +++++ -->
 	<ThingDef ParentName="HatMakeableBase">
 		<defName>VAE_Headgear_Glasses</defName>
-		<label>Glasses</label>
+		<label>glasses</label>
 		<description>A pair of correction glasses, providing users with some degree of psychic immunity.</description>
 		<graphicData>
 			<texPath>Things/Headgear/Glasses/Glasses</texPath>
@@ -412,7 +412,7 @@
 	<!-- +++++ Chefs Toque +++++ -->
 	<ThingDef ParentName="HatMakeableBase">
 		<defName>VAE_Headgear_ChefsToque</defName>
-		<label>Chef's Toque</label>
+		<label>chef's toque</label>
 		<description>A tall, round, pleated hat usually worn by the chefs.</description>
 		<graphicData>
 			<texPath>Things/Headgear/ChefsToque/ChefsToque</texPath>
